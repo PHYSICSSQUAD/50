@@ -1,0 +1,14 @@
+{
+  "name": "flare-3d",
+  "version": "1.0.0",
+  "description": "تجربة Three.js تفاعلية: شعلة خشبية، نار واقعية، شعار بألعاب نارية، وبرج شعلة صناعية",
+  "private": true,
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.3"
+  },
+  "license": "MIT"
+}
